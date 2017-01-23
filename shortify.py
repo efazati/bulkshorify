@@ -20,7 +20,7 @@ def goo_shorten_url(url):
 def process_match(m):
     url = m.group(0)
     shorten_url = goo_shorten_url(url)    
-    return url
+    return shorten_url
 
 if len(sys.argv) == 1:
     print "Please introduce file"
