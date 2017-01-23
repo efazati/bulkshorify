@@ -21,10 +21,10 @@ def process_match(m):
     url = m.group(0)
     shorten_url = goo_shorten_url(url)    
     return shorten_url
-
+result = ''
 if len(sys.argv) == 1:
     print "Please introduce file"
 else:
     with open(sys.argv[1], 'r') as need_shortify_file:
-        result = url_regex.sub(process_match, need_shortify_file.read())
+        result = url_regex.sub(process_match, need_shortify_file.read().decode('utf-8'))
         print result

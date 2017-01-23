@@ -25,4 +25,6 @@ Installing latest without cloning
 
 Go to directory and just use like this
 
-```python shortify kolang.txt
+```
+python shortify kolang.txt
+```
