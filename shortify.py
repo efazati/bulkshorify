@@ -22,7 +22,6 @@ def process_match(m):
     shorten_url = goo_shorten_url(url)    
     return url
 
-
 if len(sys.argv) == 1:
     print "Please introduce file"
 else:
