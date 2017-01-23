@@ -1,0 +1,11 @@
+معماری Move
+Architectural pattern - Wikipedia, the free encyclopedia -> http://en.wikipedia.org/wiki/Architectural_pattern
+MVC-Diagram.gif (GIF Image, 440 × 347 pixels) -> http://www.beansoftware.com/ASP.NET-Tutorials/Images/MVC-Diagram.gif
+MVVM vs MVP vs MVC: The differences explained -> http://joel.inpointform.net/software-development/mvvm-vs-mvp-vs-mvc-the-differences-explained/
+The ViewModel Pattern - David Hill's WebLog - Site Home - MSDN Blogs -> http://blogs.msdn.com/b/dphill/archive/2009/01/31/the-viewmodel-pattern.aspx
+MVVM Compared To MVC and MVP -> http://geekswithblogs.net/dlussier/archive/2009/11/21/136454.aspx
+MVC is dead, it's time to MOVE on. -> http://cirw.in/blog/time-to-move-on
+ 
+
+
+برگرفته شده از http://blog.efazati.org/post/MVC-MVVM%2C-MVP-MOVE 
